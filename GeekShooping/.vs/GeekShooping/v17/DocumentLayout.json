@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A158E6B1-C462-444B-B578-6B3CBC048742}|..\\GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshopping.web\\geekshopping.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+=======
+>>>>>>> 0bcfdff2b9edadc94a55badcc05cf1942e3b7542
       "AbsoluteMoniker": "D:0:0:{A158E6B1-C462-444B-B578-6B3CBC048742}|..\\GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshopping.web\\views\\product\\productupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -45,6 +48,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "GeekShopping.Web.csproj",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShopping.Web\\GeekShopping.Web.csproj",
               "RelativeDocumentMoniker": "..\\GeekShopping.Web\\GeekShopping.Web.csproj",
@@ -70,11 +74,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+>>>>>>> 0bcfdff2b9edadc94a55badcc05cf1942e3b7542
               "Title": "ProductUpdate.cshtml",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
               "RelativeDocumentMoniker": "..\\GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
               "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
               "RelativeToolTip": "..\\GeekShopping.Web\\Views\\Product\\ProductUpdate.cshtml",
+<<<<<<< HEAD
               "ViewState": "AgIAACcAAAAAAAAAAAAcwDgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-19T14:07:13.433Z"
@@ -82,6 +89,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+=======
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwDYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T14:07:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+>>>>>>> 0bcfdff2b9edadc94a55badcc05cf1942e3b7542
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Repository\\ProductRepository.cs",
@@ -93,7 +110,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 0bcfdff2b9edadc94a55badcc05cf1942e3b7542
               "Title": "ProductDelete.cshtml",
               "DocumentMoniker": "C:\\Users\\vanes\\Source\\Repos\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\Source\\Repos\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShopping.Web\\Views\\Product\\ProductDelete.cshtml",
@@ -105,7 +126,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 0bcfdff2b9edadc94a55badcc05cf1942e3b7542
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Web\\Program.cs",
               "RelativeDocumentMoniker": "GeekShopping.Web\\Program.cs",
@@ -117,7 +142,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
+=======
+              "DocumentIndex": 4,
+>>>>>>> 0bcfdff2b9edadc94a55badcc05cf1942e3b7542
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Source\\Repos\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShopping.Web\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Source\\Repos\\S07_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShopping.Web\\Controllers\\ProductController.cs",
