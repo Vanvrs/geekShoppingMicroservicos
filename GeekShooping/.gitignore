@@ -1,0 +1,27 @@
+## Ignore arquivos do Visual Studio
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.aps
+*.pdb
+*.cachefile
+*.ilk
+*.log
+*.ncb
+*.opensdf
+*.sdf
+*.idb
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+
+## Ignore pastas de pacotes
+packages/
+[Nn]u[Gg]et/
+*.nuget.targets
+
+## Ignore arquivos de build
+[Bb]uild/
+x64/
+x86/
