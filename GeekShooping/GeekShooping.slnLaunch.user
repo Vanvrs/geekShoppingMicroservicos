@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "..\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
