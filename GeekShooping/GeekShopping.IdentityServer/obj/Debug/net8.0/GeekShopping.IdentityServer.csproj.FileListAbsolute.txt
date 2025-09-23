@@ -1,0 +1,10 @@
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.csproj.AssemblyReference.cache
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.AssemblyInfoInputs.cache
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.AssemblyInfo.cs
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cache
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cs
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.sourcelink.json

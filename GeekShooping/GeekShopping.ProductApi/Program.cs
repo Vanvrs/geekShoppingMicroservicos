@@ -8,11 +8,11 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 
-// Para SQL Server (comente a acima e descomente esta):
+// Para SQL Server 
 builder.Services.AddDbContext<MySQLContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Configure AutoMapper - FORMA CORRETA
+// Configure AutoMapper 
 var mappingConfig = MappingConfig.RegisterMaps();
 IMapper mapper = mappingConfig.CreateMapper();
 builder.Services.AddSingleton(mapper);

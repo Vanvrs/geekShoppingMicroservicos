@@ -9,6 +9,10 @@
       {
         "Path": "GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "GeekShopping.Identity.Service\\GeekShopping.IdentityServer.csproj",
+        "Action": "Start"
       }
     ]
   }
