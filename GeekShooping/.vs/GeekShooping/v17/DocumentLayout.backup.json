@@ -23,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{51C84863-4877-4522-A21B-0BD6D6038924}|GeekShopping.Identity.Service\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identity.service\\mainmodule\\account\\externalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51C84863-4877-4522-A21B-0BD6D6038924}|GeekShopping.Identity.Service\\GeekShopping.IdentityServer.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshooping\\geekshopping.identity.service\\mainmodule\\testusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51C84863-4877-4522-A21B-0BD6D6038924}|GeekShopping.Identity.Service\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identity.service\\mainmodule\\testusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51C84863-4877-4522-A21B-0BD6D6038924}|GeekShopping.Identity.Service\\GeekShopping.IdentityServer.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshooping\\geekshopping.identity.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51C84863-4877-4522-A21B-0BD6D6038924}|GeekShopping.Identity.Service\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identity.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,25 +70,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TestUsers.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\TestUsers.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\MainModule\\TestUsers.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\TestUsers.cs*",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\TestUsers.cs*",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:32:44.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ConsentController.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs*",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs*",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs",
+              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs",
               "ViewState": "AgIAAPEAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T19:32:06.998Z",
@@ -104,8 +87,8 @@
               "Title": "DiagnosticsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs*",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs*",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
+              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T19:31:45.178Z",
@@ -117,8 +100,8 @@
               "Title": "ExternalController.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs*",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs*",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs",
+              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs",
               "ViewState": "AgIAALkAAAAAAAAAAAAewLUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T19:31:21.313Z",
@@ -130,9 +113,9 @@
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs*",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs*",
-              "ViewState": "AgIAAOECAAAAAAAAAAAewOwCAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs",
+              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAswIgBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T19:30:44.661Z",
               "EditorCaption": ""
@@ -152,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Program.cs",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Program.cs",
@@ -165,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Properties\\launchSettings.json",
@@ -178,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "MySQLContext.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Model\\Context\\MySQLContext.cs",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Model\\Context\\MySQLContext.cs",
@@ -191,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Model\\Context\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Model\\Context\\ApplicationUser.cs",
@@ -204,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "IdentityConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Configuration\\IdentityConfiguration.cs",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Configuration\\IdentityConfiguration.cs",
@@ -217,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\appsettings.json",
               "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\appsettings.json",
@@ -230,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "GeekShopping.IdentityServer.AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
