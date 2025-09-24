@@ -1,5 +1,3 @@
-Vou adicionar as informações sobre as migrations e o banco de dados, e também criar um diagrama de arquitetura para o README.
-
 # geekShoppingMicroservicos
 
 GeekShopping 🛒
