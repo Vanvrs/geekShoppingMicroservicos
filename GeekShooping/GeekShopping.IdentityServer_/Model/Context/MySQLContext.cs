@@ -1,6 +1,7 @@
 ﻿using GeekShopping.IdentityServer.Model.Context;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace GeekShopping.ProductApi.Model.Context
 {

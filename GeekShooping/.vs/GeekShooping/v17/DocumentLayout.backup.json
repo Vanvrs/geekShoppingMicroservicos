@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshooping\\geekshopping.identityserver_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50CB5DE2-CCA0-4A6F-BBF0-A683CE4BC078}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshooping\\geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB5DE2-CCA0-4A6F-BBF0-A683CE4BC078}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshooping\\geekshopping.identityserver_\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver_\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshooping\\geekshopping.identityserver_\\initializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver_\\initializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50CB5DE2-CCA0-4A6F-BBF0-A683CE4BC078}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshooping\\geekshopping.productapi\\geekshopping.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50CB5DE2-CCA0-4A6F-BBF0-A683CE4BC078}|GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj|solutionrelative:geekshopping.productapi\\geekshopping.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +30,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeekShopping.ProductApi",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
+              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
+              "RelativeToolTip": "GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T18:55:33.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.IdentityServer_\\Program.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Program.cs*",
-              "RelativeToolTip": "GeekShopping.IdentityServer_\\Program.cs*",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwE0AAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.ProductApi\\Program.cs",
+              "RelativeToolTip": "GeekShopping.ProductApi\\Program.cs",
+              "ViewState": "AgIAAH0BAAAAAAAAAADwv40BAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:58:18.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Initializer\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "GeekShopping.IdentityServer_\\Initializer\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Initializer\\DbInitializer.cs*",
-              "RelativeToolTip": "GeekShopping.IdentityServer_\\Initializer\\DbInitializer.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwEAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:54:53.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IDbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Initializer\\IDbInitializer.cs",
-              "RelativeDocumentMoniker": "GeekShopping.IdentityServer_\\Initializer\\IDbInitializer.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Initializer\\IDbInitializer.cs*",
-              "RelativeToolTip": "GeekShopping.IdentityServer_\\Initializer\\IDbInitializer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:53:26.884Z",
+              "WhenOpened": "2025-09-24T18:35:15.549Z",
               "EditorCaption": ""
             }
           ]

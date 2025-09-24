@@ -3,6 +3,10 @@
   "info": {
     "title": "GeekShopping.ProductApi",
     "description": "API de Produtos GeekShopping",
+    "contact": {
+      "name": "GeekShopping Team",
+      "email": "contact@geekshopping.com"
+    },
     "version": "v1"
   },
   "paths": {
@@ -230,6 +234,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "Enter 'Bearer' [space] and your token.\r\nExample: 'Bearer 12345abcdef'",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }
