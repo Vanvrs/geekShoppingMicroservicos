@@ -184,3 +184,4 @@ C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.Ident
 C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer_\obj\Debug\net8.0\GeekShopping.IdentityServer.pdb
 C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer_\obj\Debug\net8.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer_\obj\Debug\net8.0\ref\GeekShopping.IdentityServer.dll
+C:\Users\vanes\Desktop\geekShoppingMicroservicos\GeekShooping\GeekShopping.IdentityServer_\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

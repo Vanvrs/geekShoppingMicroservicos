@@ -1,4 +1,5 @@
 ﻿using GeekShopping.IdentityServer.Configuration;
+using GeekShopping.IdentityServer.Initializer;
 using GeekShopping.IdentityServer.Model.Context;
 using GeekShopping.ProductApi.Model.Context;
 using Microsoft.AspNetCore.Identity;
@@ -28,13 +29,22 @@ var identityServerBuilder = builder.Services.AddIdentityServer(options =>
 .AddInMemoryApiScopes(IdentityConfiguration.ApiScopes)
 .AddInMemoryClients(IdentityConfiguration.Clients)
 .AddAspNetIdentity<ApplicationUser>()
-.AddDeveloperSigningCredential(); // Movido para cá
+.AddDeveloperSigningCredential();
+
+builder.Services.AddScoped<IDbInitializer, DbInitializer>();
 
 // Add services to the container
 builder.Services.AddControllersWithViews();
-builder.Services.AddRazorPages(); // ← ADICIONAR ESTA LINHA
+builder.Services.AddRazorPages();
 
 var app = builder.Build();
+
+// Resolva o inicializador do banco de dados
+using (var scope = app.Services.CreateScope())
+{
+    var initializer = scope.ServiceProvider.GetRequiredService<IDbInitializer>();
+    initializer.Initialize();
+}
 
 // Configure the HTTP request pipeline
 if (!app.Environment.IsDevelopment())
@@ -51,7 +61,7 @@ app.UseIdentityServer();
 app.UseAuthorization();
 
 // Mapeamento de rotas
-app.MapRazorPages(); // ← ADICIONAR ESTA LINHA
+app.MapRazorPages();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
