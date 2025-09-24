@@ -3,52 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshooping\\geekshopping.identityserver_\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver_\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.IdentityServer\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Model\\Context\\MySQLContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\Model\\Context\\MySQLContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Model\\Context\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\Model\\Context\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Configuration\\IdentityConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\Configuration\\IdentityConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GeekShopping.Identity.Service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A158E6B1-C462-444B-B578-6B3CBC048742}|..\\GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshopping.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,146 +29,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConsentController.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Consent\\ConsentController.cs",
-              "ViewState": "AgIAAPEAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:32:06.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DiagnosticsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Diagnostics\\DiagnosticsViewModel.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:31:45.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExternalController.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Account\\ExternalController.cs",
-              "ViewState": "AgIAALkAAAAAAAAAAAAewLUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:31:21.313Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\MainModule\\Account\\AccountController.cs",
+              "Title": "IdentityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Configuration\\IdentityConfiguration.cs",
+              "RelativeDocumentMoniker": "GeekShopping.IdentityServer_\\Configuration\\IdentityConfiguration.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Configuration\\IdentityConfiguration.cs",
+              "RelativeToolTip": "GeekShopping.IdentityServer_\\Configuration\\IdentityConfiguration.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:30:44.661Z"
+              "WhenOpened": "2025-09-24T12:52:14.437Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAewA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:20:23.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Program.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Program.cs",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:17:42.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-23T19:06:18.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MySQLContext.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Model\\Context\\MySQLContext.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Model\\Context\\MySQLContext.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Model\\Context\\MySQLContext.cs",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\Model\\Context\\MySQLContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:05:57.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Model\\Context\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Model\\Context\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Model\\Context\\ApplicationUser.cs",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\Model\\Context\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:05:55.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IdentityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Configuration\\IdentityConfiguration.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\Configuration\\IdentityConfiguration.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\Configuration\\IdentityConfiguration.cs",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\Configuration\\IdentityConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:00:21.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\appsettings.json",
-              "RelativeDocumentMoniker": "GeekShopping.Identity.Service\\appsettings.json",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.Identity.Service\\appsettings.json",
-              "RelativeToolTip": "GeekShopping.Identity.Service\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShopping.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\GeekShopping.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShopping.Web\\appsettings.json",
+              "RelativeToolTip": "..\\GeekShopping.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-23T18:58:14.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "RelativeToolTip": "GeekShopping.IdentityServer\\obj\\Debug\\net8.0\\GeekShopping.IdentityServer.AssemblyInfo.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T17:36:12.149Z"
+              "WhenOpened": "2025-09-24T12:50:37.166Z",
+              "EditorCaption": ""
             }
           ]
         }
