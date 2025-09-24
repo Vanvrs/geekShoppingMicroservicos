@@ -1,15 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshooping\\geekshopping.identityserver_\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53604D60-CB87-467D-A5B2-8BE07439B4F6}|GeekShopping.IdentityServer_\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver_\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A158E6B1-C462-444B-B578-6B3CBC048742}|..\\GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\vanes\\desktop\\geekshoppingmicroservicos\\geekshopping.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -17,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,32 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IdentityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Configuration\\IdentityConfiguration.cs",
-              "RelativeDocumentMoniker": "GeekShopping.IdentityServer_\\Configuration\\IdentityConfiguration.cs",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShooping\\GeekShopping.IdentityServer_\\Configuration\\IdentityConfiguration.cs",
-              "RelativeToolTip": "GeekShopping.IdentityServer_\\Configuration\\IdentityConfiguration.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:52:14.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShopping.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\GeekShopping.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\vanes\\Desktop\\geekShoppingMicroservicos\\GeekShopping.Web\\appsettings.json",
-              "RelativeToolTip": "..\\GeekShopping.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-24T12:50:37.166Z",
-              "EditorCaption": ""
             }
           ]
         }
