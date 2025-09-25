@@ -1,6 +1,5 @@
 ﻿
 using GeekShopping.IdentityServer.Configuration;
-using GeekShopping.IdentityServer.Model;
 using GeekShopping.IdentityServer.Model.Context;
 using GeekShopping.ProductApi.Model.Context;
 using IdentityModel;

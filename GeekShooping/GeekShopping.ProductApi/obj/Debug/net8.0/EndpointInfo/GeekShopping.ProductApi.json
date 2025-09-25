@@ -238,7 +238,7 @@
     "securitySchemes": {
       "Bearer": {
         "type": "apiKey",
-        "description": "Enter 'Bearer' [space] and your token.\r\nExample: 'Bearer 12345abcdef'",
+        "description": "Enter 'Bearer' [space] and your token.\r\n        Example: 'Bearer 12345abcdef'",
         "name": "Authorization",
         "in": "header"
       }
